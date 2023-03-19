@@ -11,7 +11,7 @@ import SwiftUI
 struct CryptoCrazyUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainView()
         }
     }
 }
